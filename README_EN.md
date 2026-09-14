@@ -35,13 +35,16 @@ After the free period, new users can use the discount code once on their first a
 
 ## Plans
 ```
-| Plan name                 | Price    | Billing   | Monthly / total traffic | Term      | Devices | Speed cap | Dedicated line | Streaming unlock | Dedicated rack | Account sharing | Notes                                      |
-| ------------------------- | -------- | --------- | ----------------------- | --------- | ------- | --------- | -------------- | ---------------- | -------------- | --------------- | ------------------------------------------ |
-| Basic (promo)             | ¥168.00  | Yearly    | 168G                    | 1 year    | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Auto-reset on order date                   |
-| Pro                       | ¥38.00   | Monthly   | 388G                    | Monthly   | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Auto-reset on order date                   |
-| Max                       | ¥58.00   | Monthly   | 788G                    | Monthly   | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Auto-reset on order date                   |
-| 280G [pay-as-you-go]      | ¥98.00   | One-time  | 280G                    | Unlimited | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Until traffic is used up; purchases do not stack |
-| 680G [pay-as-you-go]      | ¥258.00  | One-time  | 680G                    | Unlimited | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Until traffic is used up; purchases do not stack |
+
+| Traffic                     | Price    | Type     | Streaming Support | Unlimited Users | No Expiration | No Speed Limit | Notes                                                                                                  |
+| --------------------------- | -------- | -------- | ----------------- | --------------- | ------------- | -------------- | ------------------------------------------------------------------------------------------------------ |
+| 130G Traffic-No Expiration  | ¥ 14.90  | One-time | Supported         | Yes             | Yes           | Yes            |                                                                                                        |
+| 420G Traffic-No Expiration  | ¥ 42.00  | One-time | Supported         | Yes             | Yes           | Yes            |                                                                                                        |
+| 2G Traffic-No Expiration    | ¥ 1.00   | One-time | Supported         | Yes             | Yes           | Yes            | Users who register with an invitation code can try this package for ¥1; this package cannot be renewed |
+| 750G Traffic-No Expiration  | ¥ 69.00  | One-time | Supported         | Yes             | Yes           | Yes            |                                                                                                        |
+| 1660G Traffic-No Expiration | ¥ 138.00 | One-time | Supported         | Yes             | Yes           | Yes            |                                                                                                        |
+| 3600G Traffic-No Expiration | ¥ 279.00 | One-time | Supported         | Yes             | Yes           | Yes            |                                                                                                        |
+| 10T Traffic-No Expiration   | ¥ 688.00 | One-time | Supported         | Yes             | Yes           | Yes            |                                                                                                        |
 ```
 
 ## Advantages
