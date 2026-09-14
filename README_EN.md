@@ -1,62 +1,214 @@
-🇨🇳 [Chinese](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Mojie Official Website (Updated on September 14, 2026)
-Mojie Official Website</br>
-Redirect Address 01: [www.mojie.wiki](https://www.mojie.wiki)</br>
-Latest Address 02: [www.kateyun.org](https://www.kateyun.org)</br>
-Official Website: [mojie.wiki](https://mojie.wiki)</br>
-Permanent Address: [kateyun.org](https://kateyun.org)</br>
+# Mojie (Magic Ring) Official Addresses (Updated September 14, 2026)
 
-2026 Latest Recommended VPN & Node Sharing: [https://github.com/modporbme/Global-VPN-SpeedUp](https://github.com/modporbme/Global-VPN-SpeedUp)</br>
+Mojie official website addresses  
+Redirect address 01: [www.mojie.wiki](https://www.mojie.wiki)  
+Latest address 02: [www.kateyun.org](https://www.kateyun.org)  
+Official address: [mojie.wiki](https://mojie.wiki)  
+Permanent address: [kateyun.org](https://kateyun.org)
+
+2026 recommended VPN / proxy services and node sharing: [https://github.com/modporbme/Global-VPN-SpeedUp](https://github.com/modporbme/Global-VPN-SpeedUp)
 
 ## Telegram VPN Community #AD
-[Lucky Draw Group](https://t.me/kateyun_org) | [Chat Group](https://t.me/kateyun_org) | [Experience Group](https://t.me/kateyun_org)</br>
+[Giveaway group](https://t.me/kateyun_org) | [Chat group](https://t.me/kateyun_org) | [Trial group](https://t.me/kateyun_org)
 
 ## Introduction
-"Mojie" is a professional network link optimization service supporting 86 global POP access points, equipped with [US ISP](https://github.com/modporbme/mojie#1%E7%BE%8E%E5%9B%BD), [Hong Kong ISP](https://github.com/modporbme/mojie#2%E9%A6%99%E6%B8%AF), [Taiwan ISP](https://github.com/modporbme/mojie#3%E5%8F%B0%E6%B9%BE), [Japan ISP](https://github.com/modporbme/mojie#4%E6%97%A5%E6%9C%AC), [South Korea ISP](https://github.com/modporbme/mojie#5%E9%9F%A9%E5%9B%BD), and Malaysia ISP resources. It aims to provide stable network acceleration support for cross-border office workers, overseas academic search, and streaming enthusiasts.
+“Mojie” is a professional network-path optimization service with 86 ~~global points of presence, including [US residential](https://github.com/modporbme/mojie#1%E7%BE%8E%E5%9B%BD), [Hong Kong residential](https://github.com/modporbme/mojie#2%E9%A6%99%E6%B8%AF), [Taiwan residential](https://github.com/modporbme/mojie#3%E5%8F%B0%E6%B9%BE), [Japan residential](https://github.com/modporbme/mojie#4%E6%97%A5%E6%9C%AC), [Korea residential](https://github.com/modporbme/mojie#5%E9%9F%A9%E5%9B%BD), and Malaysia residential~~. It is intended to provide stable acceleration for cross-border work, overseas academic search, and media streaming.
 
-## Mojie Invitation Code
-`New users registering with this code can claim a free 10-day / 50GB plan`
+## Mojie Invite Code
+`Users who register with this invite code can claim a free 10-day / 50GB plan`
 ```bash
 QPB5cCmr
-Mojie Promo / Discount CodeCurrently ActiveBashTRUST20
-After the free period ends, new users can apply the discount code once on their first annual subscription, reducing the price from ~~CNY 168/year~~ to a discounted yearly rate.PlansPlan NamePriceBilling TypeMonthly / Total TrafficDurationMax DevicesSpeed LimitDedicated LineStreaming UnlockServer RackAccount SharingRemarksBasic Plan (Special)¥168.00Yearly168GYearly5 Devices5000MAvailableSupportedYesNot AllowedAuto-reset on billing datePro Plan¥38.00Monthly388GMonthly5 Devices5000MAvailableSupportedYesNot AllowedAuto-reset on billing dateMax Plan¥58.00Monthly788GMonthly5 Devices5000MAvailableSupportedYesNot AllowedAuto-reset on billing date280G [Pay-as-you-go]¥98.00One-time280GUnlimited5 Devices5000MAvailableSupportedYesNot AllowedTraffic expires upon use; multiple purchases do not stack680G [Pay-as-you-go]¥258.00One-time680GUnlimited5 Devices5000MAvailableSupportedYesNot AllowedTraffic expires upon use; multiple purchases do not stackAdvantagesGlobal Coverage: Deployed with 86 global POP access points covering Southeast Asia, Europe, America, and selected scarce regions.Enterprise-Grade Links: Uses Global Accelerator international dedicated line technology with high-availability SLA across all nodes.Ultra-HD Support: Optimized transmission efficiency for mainstream 4K/8K video streaming with extremely low latency.📊 Performance Testing & Analysis1. Peak Hours Speed Test2. Streaming Unlock Report3. Landing Entry Analysis4. Residential IP Purity Analysis1. United States2. Hong Kong3. Taiwan4. Japan5. South Korea5. Server Status DirectoryGroupNameProtocolMultiplierStatusLoadHK🇭🇰 HKG·Hong Kong 01 ¹ˣTROJANx1.0Online11%HK🇭🇰 HKG·Hong Kong 02 ¹ˣTROJANx1.0Online11%HK🇭🇰 HKG·Hong Kong 03 ¹ˣTROJANx1.0Online11%HK🇭🇰 HKG·Hong Kong 04 ¹ˣTROJANx1.0Online11%HK🇭🇰 HKG·Hong Kong 05 ¹ˣTROJANx1.0Online11%HK🇭🇰 HKG·Hong Kong 01 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong 02 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong 03 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong 05 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong 06 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong 07 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong 08 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong 09 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong 10 ³ˣTROJANx3.0Online56%HK🇭🇰 HKG·Hong Kong ISP-Residential ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 01 ¹ˣTROJANx1.0Online11%US🇺🇸 USA·America 02 ¹ˣTROJANx1.0Online11%US🇺🇸 USA·America 03 ¹ˣTROJANx1.0Online11%US🇺🇸 USA·America 04 ¹ˣTROJANx1.0Online11%US🇺🇸 USA·America 05 ¹ˣTROJANx1.0Online11%US🇺🇸 USA·America 01 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 02 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 03 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 05 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 06 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 07 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 08 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 09 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America 10 ³ˣTROJANx3.0Online56%US🇺🇸 USA·America ISP-Residential ³ˣTROJANx3.0Online56%US🇹🇼 TWN·Taiwan 02 ³ˣTROJANx3.0Online56%TW🇹🇼 TWN·Taiwan 01 ¹ˣTROJANx1.0Online11%TW🇹🇼 TWN·Taiwan 02 ¹ˣTROJANx1.0Online11%TW🇹🇼 TWN·Taiwan 01 ³ˣTROJANx3.0Online56%TW🇹🇼 TWN·Taiwan 03 ³ˣTROJANx3.0Online56%TW🇹🇼 TWN·Taiwan 05 ³ˣTROJANx3.0Online56%TW🇹🇼 TWN·Taiwan 06 ³ˣTROJANx3.0Online56%TW🇹🇼 TWN·Taiwan 07 ³ˣTROJANx3.0Online56%TW🇹🇼 TWN·Taiwan 08 ³ˣTROJANx3.0Online56%TW🇹🇼 TWN·Taiwan ISP-Residential ³ˣTROJANx3.0Online56%SG🇸🇬 SGP·Singapore 01 ¹ˣTROJANx1.0Online11%SG🇸🇬 SGP·Singapore 02 ¹ˣTROJANx1.0Online11%SG🇸🇬 SGP·Singapore 01 ³ˣTROJANx3.0Online56%SG🇸🇬 SGP·Singapore 02 ³ˣTROJANx3.0Online56%SG🇸🇬 SGP·Singapore 03 ³ˣTROJANx3.0Online56%SG🇸🇬 SGP·Singapore 05 ³ˣTROJANx3.0Online56%SG🇸🇬 SGP·Singapore 06 ³ˣTROJANx3.0Online56%JP🇯🇵 JPN·Japan 01 ¹ˣTROJANx1.0Online11%JP🇯🇵 JPN·Japan 02 ¹ˣTROJANx1.0Online11%JP🇯🇵 JPN·Japan 01 ³ˣTROJANx3.0Online56%JP🇯🇵 JPN·Japan 02 ³ˣTROJANx3.0Online56%JP🇯🇵 JPN·Japan 03 ³ˣTROJANx3.0Online56%JP🇯🇵 JPN·Japan 05 ³ˣTROJANx3.0Online56%JP🇯🇵 JPN·Japan 06 ³ˣTROJANx3.0Online56%JP🇯🇵 JPN·Japan ISP-Residential ³ˣTROJANx3.0Online56%KR🇰🇷 KOR·South Korea 01 ¹ˣTROJANx1.0Online11%KR🇰🇷 KOR·South Korea 02 ¹ˣTROJANx1.0Online11%KR🇰🇷 KOR·South Korea 01 ³ˣTROJANx3.0Online56%KR🇰🇷 KOR·South Korea 02 ³ˣTROJANx3.0Online56%KR🇰🇷 KOR·South Korea 03 ³ˣTROJANx3.0Online56%KR🇰🇷 KOR·South Korea 05 ³ˣTROJANx3.0Online56%KR🇰🇷 KOR·South Korea 06 ³ˣTROJANx3.0Online56%KR🇰🇷 KOR·South Korea ISP-Residential ³ˣTROJANx3.0Online56%TH🇹🇭 THA·Thailand 01 ³ˣTROJANx3.0Online56%TH🇹🇭 THA·Thailand 02 ³ˣTROJANx3.0Online56%TH🇹🇭 THA·Thailand 03 ³ˣTROJANx3.0Online56%MY🇲🇾 MYS·Malaysia 01 ³ˣTROJANx3.0Online56%MY🇲🇾 MYS·Malaysia ISP-Residential ³ˣTROJANx3.0Online56%VN🇻🇳 VNM·Vietnam 01 ³ˣTROJANx3.0Online56%PH🇵🇭 PHL·Philippines 01 ³ˣTROJANx3.0Online56%ID🇮🇩 IDN·Indonesia 01 ³ˣTROJANx3.0Online56%TR🇹🇷 TUR·Turkey 01 ³ˣTROJANx3.0Online56%TR🇹🇷 TUR·Turkey 02 ³ˣTROJANx3.0Online56%TR🇹🇷 TUR·Turkey 03 ³ˣTROJANx3.0Online56%GB🇬🇧 GBR·UK 01 ³ˣTROJANx3.0Online56%GB🇬🇧 GBR·UK 02 ³ˣTROJANx3.0Online56%GB🇬🇧 GBR·UK 03 ³ˣTROJANx3.0Online56%DE🇩🇪 DEU·Germany 01 ³ˣTROJANx3.0Online56%FR🇫🇷 FRA·France 01 ³ˣTROJANx3.0Online56%BR🇧🇷 BRA·Brazil 01 ³ˣTROJANx3.0Online56%AE🇦🇪 ARE·UAE 01 ³ˣTROJANx3.0Online56%Ungrouped🇨🇳 If nodes fail, please try updating subscriptionVMESSx3.0Maintaining—Ungrouped🇨🇳 Permanent Address: WWW.MOJIE.WIKIVMESSx3.0Maintaining—Ungrouped🇨🇳 Mainland Access: v13.v2ny.meVMESSx3.0Maintaining—Ungrouped🇨🇳 [Official] 👇 Telegram Group 👇VMESSx3.0Maintaining—Ungrouped🇨🇳 Welcome to join 👉 @V2NAIUN 👈VMESSx3.0Maintaining—RecoveryAccount Plan Recovery TutorialPlease copy the following content and send it to customer service. Provide complete information at once to expedite processing.Please do not open a new support ticket.BashIssue Type: (Missing Order / Top-up Not Credited / Plan Exception)
-Account: 
-(Registration email or username)
-Plan Name:
-Purchase/Renewal Time: 
-(Please specify exact date and time)
-Order Amount:
-Payment Method: 
-(e.g., Alipay, WeChat)
-Issue Description: 
-(Please detail the problem encountered and time of occurrence)
-Attachment: 
-Payment receipt screenshot
-代码段flowchart TD
-    A["Ctrl+Click<br/>mojie.wiki<br/>Log in to new website"]
-    A --> C[Note: Website database is temporarily from May]
-    C --> D{Is login successful?}
+```
 
-    D -->|Yes| E[Check if plan is still there]
-    E --> F{Is the plan still there?}
+## Mojie Discount / Promo Code
+`Currently valid`
+```bash
+TRUST20
+```
+After the free period, new users can use the discount code once on their first annual order. Was ~~¥168/year~~; now XX yuan/year for one year of service.
 
-    F -->|Yes| G[Wait for website recovery]
-    F -->|No| H[Find online customer service at bottom-right of website to submit materials]
-    H --> I["Ctrl+Click<br/>[https://pic.sl.al/](https://pic.sl.al/)<br/>Upload & paste payment screenshot link to online CS"]
-    I --> J[Apply to restore plan]
+![image](https://github.com/modporbme/mojie/blob/main/mojie/photo_2026-07-07_10-46-17.jpg?raw=true)
 
-    D -->|No| K[Register a new account]
-    K --> L{Is registration successful?}
+## Plans
+```
+| Plan name                 | Price    | Billing   | Monthly / total traffic | Term      | Devices | Speed cap | Dedicated line | Streaming unlock | Dedicated rack | Account sharing | Notes                                      |
+| ------------------------- | -------- | --------- | ----------------------- | --------- | ------- | --------- | -------------- | ---------------- | -------------- | --------------- | ------------------------------------------ |
+| Basic (promo)             | ¥168.00  | Yearly    | 168G                    | 1 year    | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Auto-reset on order date                   |
+| Pro                       | ¥38.00   | Monthly   | 388G                    | Monthly   | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Auto-reset on order date                   |
+| Max                       | ¥58.00   | Monthly   | 788G                    | Monthly   | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Auto-reset on order date                   |
+| 280G [pay-as-you-go]      | ¥98.00   | One-time  | 280G                    | Unlimited | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Until traffic is used up; purchases do not stack |
+| 680G [pay-as-you-go]      | ¥258.00  | One-time  | 680G                    | Unlimited | 5       | 5000M     | Available      | Supported        | Yes            | Not allowed     | Until traffic is used up; purchases do not stack |
+```
 
-    L -->|Yes| M[Find online customer service at bottom-right to submit materials]
-    M --> N["Ctrl+Click<br/>[https://pic.sl.al/](https://pic.sl.al/)<br/>Upload & paste payment screenshot link to online CS"]
-    N --> O[Apply to restore plan and account]
+## Advantages
+Global coverage: 86 POP locations worldwide, covering Southeast Asia, Europe, the US, and some harder-to-reach regions.  
+Enterprise-grade paths: Global Accelerator dedicated international lines with high-availability SLA on all nodes.  
+UHD support: Optimized for mainstream 4K/8K streaming with very low latency.
 
-    L -->|No| P[Email verification code not received]
-    P --> Q[Wait for email provider risk control recovery]
-    Q --> K
+## 📊 Performance Tests and Analysis
+#### 1. Evening peak speed test
+![image](https://github.com/modporbme/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-7737-speed.png?raw=true)
+#### 2. Streaming unlock report
+![image](https://github.com/modporbme/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-5631-test.png?raw=true)
+#### 3. Exit / landing analysis
+![image](https://github.com/modporbme/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-6461-analyze.png?raw=true)
+#### 4. Residential IP cleanliness
+##### 1. United States
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234465268.png?raw=true)
+##### 2. Hong Kong
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234508008.png?raw=true)
+##### 3. Taiwan
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234555188.png?raw=true)
+##### 4. Japan
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234584653.png?raw=true)
+##### 5. Korea
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234622676.png?raw=true)
 
-    click A "[https://mojie.wiki/#/register?code=KacwlzHN](https://mojie.wiki/#/register?code=KacwlzHN)" "Open mojie.wiki" _blank
-    click I "[https://pic.sl.al](https://pic.sl.al)" "Open pic.sl.al" _blank
-    click N "[https://pic.sl.al](https://pic.sl.al)" "Open pic.sl.al" _blank
+#### 5. Server status
+<details>
+<summary><strong>Click to expand server list</strong></summary>
+
+```
+| Group     | Name                                                              | Protocol | Multiplier | Status     | Load |
+| --------- | ----------------------------------------------------------------- | -------- | ---------- | ---------- | ---- |
+| HK        | 🇭🇰 HKG·Hong Kong 01 ¹ˣ                                          | TROJAN   | x1.0       | Online     | 11%  |
+| HK        | 🇭🇰 HKG·Hong Kong 02 ¹ˣ                                          | TROJAN   | x1.0       | Online     | 11%  |
+| HK        | 🇭🇰 HKG·Hong Kong 03 ¹ˣ                                          | TROJAN   | x1.0       | Online     | 11%  |
+| HK        | 🇭🇰 HKG·Hong Kong 04 ¹ˣ                                          | TROJAN   | x1.0       | Online     | 11%  |
+| HK        | 🇭🇰 HKG·Hong Kong 05 ¹ˣ                                          | TROJAN   | x1.0       | Online     | 11%  |
+| HK        | 🇭🇰 HKG·Hong Kong 01 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong 02 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong 03 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong 05 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong 06 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong 07 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong 08 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong 09 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong 10 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| HK        | 🇭🇰 HKG·Hong Kong ISP-Residential ³ˣ                             | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 01 ¹ˣ                                     | TROJAN   | x1.0       | Online     | 11%  |
+| US        | 🇺🇸 USA·United States 02 ¹ˣ                                     | TROJAN   | x1.0       | Online     | 11%  |
+| US        | 🇺🇸 USA·United States 03 ¹ˣ                                     | TROJAN   | x1.0       | Online     | 11%  |
+| US        | 🇺🇸 USA·United States 04 ¹ˣ                                     | TROJAN   | x1.0       | Online     | 11%  |
+| US        | 🇺🇸 USA·United States 05 ¹ˣ                                     | TROJAN   | x1.0       | Online     | 11%  |
+| US        | 🇺🇸 USA·United States 01 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 02 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 03 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 05 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 06 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 07 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 08 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 09 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States 10 ³ˣ                                     | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇺🇸 USA·United States ISP-Residential ³ˣ                        | TROJAN   | x3.0       | Online     | 56%  |
+| US        | 🇹🇼 TWN·Taiwan 02 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TW        | 🇹🇼 TWN·Taiwan 01 ¹ˣ                                            | TROJAN   | x1.0       | Online     | 11%  |
+| TW        | 🇹🇼 TWN·Taiwan 02 ¹ˣ                                            | TROJAN   | x1.0       | Online     | 11%  |
+| TW        | 🇹🇼 TWN·Taiwan 01 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TW        | 🇹🇼 TWN·Taiwan 03 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TW        | 🇹🇼 TWN·Taiwan 05 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TW        | 🇹🇼 TWN·Taiwan 06 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TW        | 🇹🇼 TWN·Taiwan 07 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TW        | 🇹🇼 TWN·Taiwan 08 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TW        | 🇹🇼 TWN·Taiwan ISP-Residential ³ˣ                               | TROJAN   | x3.0       | Online     | 56%  |
+| SG        | 🇸🇬 SGP·Singapore 01 ¹ˣ                                         | TROJAN   | x1.0       | Online     | 11%  |
+| SG        | 🇸🇬 SGP·Singapore 02 ¹ˣ                                         | TROJAN   | x1.0       | Online     | 11%  |
+| SG        | 🇸🇬 SGP·Singapore 01 ³ˣ                                         | TROJAN   | x3.0       | Online     | 56%  |
+| SG        | 🇸🇬 SGP·Singapore 02 ³ˣ                                         | TROJAN   | x3.0       | Online     | 56%  |
+| SG        | 🇸🇬 SGP·Singapore 03 ³ˣ                                         | TROJAN   | x3.0       | Online     | 56%  |
+| SG        | 🇸🇬 SGP·Singapore 05 ³ˣ                                         | TROJAN   | x3.0       | Online     | 56%  |
+| SG        | 🇸🇬 SGP·Singapore 06 ³ˣ                                         | TROJAN   | x3.0       | Online     | 56%  |
+| JP        | 🇯🇵 JPN·Japan 01 ¹ˣ                                             | TROJAN   | x1.0       | Online     | 11%  |
+| JP        | 🇯🇵 JPN·Japan 02 ¹ˣ                                             | TROJAN   | x1.0       | Online     | 11%  |
+| JP        | 🇯🇵 JPN·Japan 01 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| JP        | 🇯🇵 JPN·Japan 02 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| JP        | 🇯🇵 JPN·Japan 03 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| JP        | 🇯🇵 JPN·Japan 05 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| JP        | 🇯🇵 JPN·Japan 06 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| JP        | 🇯🇵 JPN·Japan ISP-Residential ³ˣ                                | TROJAN   | x3.0       | Online     | 56%  |
+| KR        | 🇰🇷 KOR·Korea 01 ¹ˣ                                             | TROJAN   | x1.0       | Online     | 11%  |
+| KR        | 🇰🇷 KOR·Korea 02 ¹ˣ                                             | TROJAN   | x1.0       | Online     | 11%  |
+| KR        | 🇰🇷 KOR·Korea 01 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| KR        | 🇰🇷 KOR·Korea 02 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| KR        | 🇰🇷 KOR·Korea 03 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| KR        | 🇰🇷 KOR·Korea 05 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| KR        | 🇰🇷 KOR·Korea 06 ³ˣ                                             | TROJAN   | x3.0       | Online     | 56%  |
+| KR        | 🇰🇷 KOR·Korea ISP-Residential ³ˣ                                | TROJAN   | x3.0       | Online     | 56%  |
+| TH        | 🇹🇭 THA·Thailand 01 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| TH        | 🇹🇭 THA·Thailand 02 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| TH        | 🇹🇭 THA·Thailand 03 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| MY        | 🇲🇾 MYS·Malaysia 01 ³ˣ                                          | TROJAN   | x3.0       | Online     | 56%  |
+| MY        | 🇲🇾 MYS·Malaysia ISP-Residential ³ˣ                             | TROJAN   | x3.0       | Online     | 56%  |
+| VN        | 🇻🇳 VNM·Vietnam 01 ³ˣ                                           | TROJAN   | x3.0       | Online     | 56%  |
+| PH        | 🇵🇭 PHL·Philippines 01 ³ˣ                                       | TROJAN   | x3.0       | Online     | 56%  |
+| ID        | 🇮🇩 IDN·Indonesia 01 ³ˣ                                         | TROJAN   | x3.0       | Online     | 56%  |
+| TR        | 🇹🇷 TUR·Turkey 01 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TR        | 🇹🇷 TUR·Turkey 02 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| TR        | 🇹🇷 TUR·Turkey 03 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| GB        | 🇬🇧 GBR·United Kingdom 01 ³ˣ                                    | TROJAN   | x3.0       | Online     | 56%  |
+| GB        | 🇬🇧 GBR·United Kingdom 02 ³ˣ                                    | TROJAN   | x3.0       | Online     | 56%  |
+| GB        | 🇬🇧 GBR·United Kingdom 03 ³ˣ                                    | TROJAN   | x3.0       | Online     | 56%  |
+| DE        | 🇩🇪 DEU·Germany 01 ³ˣ                                           | TROJAN   | x3.0       | Online     | 56%  |
+| FR        | 🇫🇷 FRA·France 01 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| BR        | 🇧🇷 BRA·Brazil 01 ³ˣ                                            | TROJAN   | x3.0       | Online     | 56%  |
+| AE        | 🇦🇪 ARE·UAE 01 ³ˣ                                               | TROJAN   | x3.0       | Online     | 56%  |
+| Ungrouped | 🇨🇳 If a node is down, try updating your subscription           | VMESS    | x3.0       | Maintenance | —    |
+| Ungrouped | 🇨🇳 Permanent address: [WWW.MOJIE.WIKI](https://github.com/modporbme/mojie) | VMESS | x3.0 | Maintenance | — |
+| Ungrouped | 🇨🇳 Mainland access: v13.v2ny.me                                | VMESS    | x3.0       | Maintenance | —    |
+| Ungrouped | 🇨🇳 [Official] Telegram group below                             | VMESS    | x3.0       | Maintenance | —    |
+| Ungrouped | 🇨🇳 Welcome to join 👉 @V2NAIUN 👈                               | VMESS    | x3.0       | Maintenance | —    |
+```
+
+</details>
+
+## Recovery
+### How to restore an account / plan
+`Please copy the following and send it to support. Provide complete information in one message so it can be processed faster.`  
+`Do not open a new ticket.`
+```bash
+Issue type: (missing order / payment not credited / plan abnormal)
+Account:
+(registered email or username)
+Plan name:
+Purchase / renewal time:
+(please include the exact date and time)
+Order amount:
+Payment method:
+(e.g. Alipay, WeChat)
+Problem description:
+(please describe the issue and when it happened)
+Attachments:
+payment receipt screenshot
+```
+
+```mermaid
+flowchart TD
+A["Ctrl+click<br/>mojie.wiki<br/>log in on the new site"]
+A --> C[Note: site database is currently from May]
+C --> D{Login successful?}
+
+D -->|Yes| E[Check whether the plan is still there]
+E --> F{Is the plan still there?}
+
+F -->|Yes| G[Wait for the site to recover]
+F -->|No| H[Use live chat at the bottom-right and submit materials]
+H --> I["Ctrl+click<br/>https://pic.sl.al/<br/>upload image - paste the receipt link to live chat"]
+I --> J[Request plan restoration]
+
+D -->|No| K[Register a new account]
+K --> L{Registration successful?}
+
+L -->|Yes| M[Use live chat at the bottom-right and submit materials]
+M --> N["Ctrl+click<br/>https://pic.sl.al/<br/>upload image - paste the receipt link to live chat"]
+N --> O[Request restoration of plan and account]
+
+L -->|No| P[Did not receive email verification code]
+P --> Q[Wait for the email provider's risk control to clear]
+Q --> K
+
+click A "https://mojie.wiki/#/register?code=KacwlzHN" "Open mojie.wiki" _blank
+click I "https://pic.sl.al" "Open pic.sl.al" _blank
+click N "https://pic.sl.al" "Open pic.sl.al" _blank
+```
