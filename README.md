@@ -27,7 +27,7 @@ QPB5cCmr
 TRUST20
 ```
 免费期结束后，新户首单年费可用一次折扣码，可~~168元/年~~，XX元/年，优惠购买一年使用时间。  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/photo_2026-07-07_10-46-17.jpg?raw=true)
+![image](https://github.com/modporbme/mojie/blob/main/mojie/photo_2026-07-07_10-46-17.jpg?raw=true)
 ## 套餐
 | 套餐名称          | 价格        | 计费方式   | 每月流量/总流量 | 使用期限     | 支持设备数 | 速度上限      | 专线网络 | 流媒体解锁 | 机房专柜 | 账号分享 | 备注                 |
 | --------------- | ----------- | -------- | ------------- | -------- | -------- | ----------- | -------- | -------- | -------- | -------- | -------------------- |
@@ -43,22 +43,22 @@ TRUST20
 超高清支持： 优化了对主流 4K/8K 视频流媒体的传输效率，延迟极低。</br>
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-7737-speed.png?raw=ture)  
-#### 2.流媒体解锁报告  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-5631-test.png?raw=ture)    
-#### 3.落地入口分析  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-6461-analyze.png?raw=ture)
-#### 4.家宽纯净度分析  
-##### 1.美国  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/IPPure-1781234465268.png?raw=ture)  
-##### 2.香港  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/IPPure-1781234508008.png?raw=ture)  
-##### 3.台湾  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/IPPure-1781234555188.png?raw=ture)  
-##### 4.日本  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/IPPure-1781234584653.png?raw=ture)  
-##### 5.韩国  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/IPPure-1781234622676.png?raw=ture)  
+![image](https://github.com/modporbme/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-7737-speed.png?raw=ture)  
+#### 2.流媒体解锁报告       
+![image](https://github.com/modporbme/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-5631-test.png?raw=ture)    
+#### 3.落地入口分析        
+![image](https://github.com/modporbme/mojie/blob/main/mojie/MiaoKo-%20.%20.cc-6461-analyze.png?raw=ture)
+#### 4.家宽纯净度分析     
+##### 1.美国              
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234465268.png?raw=ture)  
+##### 2.香港               
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234508008.png?raw=ture)  
+##### 3.台湾               
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234555188.png?raw=ture)  
+##### 4.日本               
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234584653.png?raw=ture)  
+##### 5.韩国               
+![image](https://github.com/modporbme/mojie/blob/main/mojie/IPPure-1781234622676.png?raw=ture)  
 #### 5.服务器状态整理
 <details>
 <summary><strong>点击展开服务器列表</strong></summary>   
