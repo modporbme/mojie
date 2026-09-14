@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# mojie魔戒机场官方地址(2026年9月14日更新)
+# mojie魔戒机场官方地址(2026年9月15日更新)
 mojie魔戒机场官网地址</br>
 跳转地址01：[www.mojie.wiki](https://www.mojie.wiki)</br>
 最新地址02：[www.kateyun.org](https://www.kateyun.org)</br>
@@ -17,6 +17,8 @@ mojie魔戒机场官网地址</br>
 ## 简介
 “魔戒”是一款专业的网络链路优化服务，支持全球 86 ~~接入点并且配有[美国家宽](https://github.com/modporbme/mojie#1%E7%BE%8E%E5%9B%BD)，[香港家宽](https://github.com/modporbme/mojie#2%E9%A6%99%E6%B8%AF)，[台湾家宽](https://github.com/modporbme/mojie#3%E5%8F%B0%E6%B9%BE)，[日本家宽](https://github.com/modporbme/mojie#4%E6%97%A5%E6%9C%AC)，[韩国家宽](https://github.com/modporbme/mojie#5%E9%9F%A9%E5%9B%BD)，马来西亚家宽~~。旨在为跨境办公、海外学术搜索及影音爱好者提供稳定的网络加速支持。
 ## 魔戒机场邀请码
+
+
 `此邀请码注册用户可免费领取10天/50GB套餐`
 ```bash
 QPB5cCmr
