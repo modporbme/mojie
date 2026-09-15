@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Mojie (Magic Ring) Official Addresses (Updated September 15, 2026)
+# Mojie (Magic Ring) Official Addresses (Updated September 16, 2026)
 
 Mojie official website addresses  
 Redirect address 01: [www.mojie.wiki](https://www.mojie.wiki)  
@@ -17,7 +17,6 @@ Permanent address: [kateyun.org](https://kateyun.org)
 “Mojie” is a professional network-path optimization service with 86 ~~global points of presence, including [US residential](https://github.com/modporbme/mojie#1%E7%BE%8E%E5%9B%BD), [Hong Kong residential](https://github.com/modporbme/mojie#2%E9%A6%99%E6%B8%AF), [Taiwan residential](https://github.com/modporbme/mojie#3%E5%8F%B0%E6%B9%BE), [Japan residential](https://github.com/modporbme/mojie#4%E6%97%A5%E6%9C%AC), [Korea residential](https://github.com/modporbme/mojie#5%E9%9F%A9%E5%9B%BD), and Malaysia residential~~. It is intended to provide stable acceleration for cross-border work, overseas academic search, and media streaming.
 
 ## Mojie Invite Code
-
 
 `Users who register with this invite code can claim a free 10-day / 50GB plan`
 ```bash
