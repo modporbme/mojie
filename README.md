@@ -3,10 +3,11 @@
 
 # mojie魔戒机场官方地址(2026年9月17日更新)
 mojie魔戒机场官网地址</br>
-跳转地址01：[www.mojie.wiki](https://www.mojie.wiki)</br>
-最新地址02：[www.kateyun.org](https://www.kateyun.org)</br>
 官网地址：[mojie.wiki](https://mojie.wiki)</br>
 永久地址：[kateyun.org](https://kateyun.org)</br>
+跳转地址01：[www.mojie.wiki](https://www.mojie.wiki)</br>
+最新地址02：[www.kateyun.org](https://www.kateyun.org)</br>
+
 
 
 
