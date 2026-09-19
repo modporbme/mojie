@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальные адреса Mojie (Magic Ring) (обновлено 19 сентября 2026)
+# Официальные адреса Mojie (Magic Ring) (обновлено 20 сентября 2026)
 
 Официальные адреса сайта Mojie  
 Адрес перенаправления 01: [www.mojie.wiki](https://www.mojie.wiki)  
