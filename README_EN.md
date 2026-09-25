@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Mojie (Magic Ring) Official Addresses (Updated September 25, 2026)
+# Mojie (Magic Ring) Official Addresses (Updated September 26, 2026)
 
 Mojie official website addresses  
 Redirect address 01: [www.mojie.wiki](https://www.mojie.wiki)  
