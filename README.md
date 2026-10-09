@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# mojie魔戒机场官方地址(2026年10月9日更新)
+# mojie魔戒机场官方地址(2026年10月10日更新)
 mojie魔戒机场官网地址</br>
 官网地址：[mojie.wiki](https://mojie.wiki)</br>
 永久地址：[kateyun.org](https://kateyun.org)</br>
